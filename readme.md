@@ -2,6 +2,14 @@
 
 ![Videoflix Logo](assets/icons/logo_icon.svg)
 
+> **Entwickelt im Rahmen des Weiterbildungsprogramms der Developer Akademie GmbH.**
+>
+> Dieses Frontend wurde von der Developer Akademie GmbH bereitgestellt. Für alle von ihr bereitgestellten
+> Bestandteile gilt die „Developer Akademie Lernlizenz (Nicht-kommerziell)“, siehe [LICENSE.md](LICENSE.md).
+> Die Schriftart DM Sans steht unter der SIL Open Font License 1.1, siehe [assets/fonts/OFL.txt](assets/fonts/OFL.txt).
+>
+> Zugehöriges Backend: [SiriusSagittarius/Videoflix](https://github.com/SiriusSagittarius/Videoflix)
+
 Dieses Projekt ist ein einfaches Frontend, das mit **Vanilla JavaScript** (reines JavaScript ohne Frameworks) erstellt wurde. Es wurde speziell entwickelt, um Schülern der **Developer Akademie** mit Backend-Erfahrung den Einstieg in kleinere Frontend-Anpassungen zu erleichtern.
 
 ---
